@@ -10,7 +10,7 @@ let dividendosMensais = 5000
 let metaDividendosMensais = 50000
 
 /* Os códigos abaixo são apenas um esboço para que eu possa melhorar mais e mais. 
-Dependendo do que for, irei melhorar mais e mais */
+Dependendo do que for, irei melhorar mais e mais. */
 console.log(receitasConta)
 console.log(despesasConta)
 console.log(saldoEmConta = receitasConta - despesasConta)
